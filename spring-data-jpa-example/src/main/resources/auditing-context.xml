@@ -9,6 +9,7 @@
 
 	<import resource="infrastructure.xml" />
 	
+	
 	<!-- 
 	 - Activate auditing by using namespace element
 	 - Reference AuditorAware to also keep track of WHO changed entities 
